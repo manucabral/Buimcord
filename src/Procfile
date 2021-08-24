@@ -1,1 +1,1 @@
-worker: node fede.js
+worker: node main.js
