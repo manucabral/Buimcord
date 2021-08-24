@@ -16,3 +16,6 @@ Una vez realizado la configuración del bot, ejecutalo con el siguiente comando.
   npm start
 ```
 
+## Despliegue en heroku
+Si requieres desplegarlo en heroku necesitaras el archivo Procfile, por otro lado lo puedes eliminar.
+
