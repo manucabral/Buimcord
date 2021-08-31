@@ -1,4 +1,4 @@
-# Buimcord
+# Buimcord :robot:
 Bot buscador de imagenes para discord.
 
 ## Requerimientos
